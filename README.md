@@ -17,7 +17,7 @@ A static website template for selling small-business websites to restaurants, sa
 3. Edit the package names and sales copy in `index.html`.
 4. Update the industry switcher content in `script.js`.
 5. Connect the form in `#contact` to your preferred email, CRM, or booking tool.
-6. Replace every `https://your-domain.com/` placeholder in `index.html`, `robots.txt`, and `sitemap.xml` after you buy or connect a real domain.
+6. Replace the GitHub Pages URL in `index.html`, `robots.txt`, and `sitemap.xml` after you buy or connect a real domain.
 
 Open `index.html` directly in a browser to preview the site.
 
