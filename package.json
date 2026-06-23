@@ -1,0 +1,11 @@
+{
+  "name": "locallift-studio-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static website template for restaurant and local business website demos.",
+  "scripts": {
+    "serve": "python3 -m http.server 8000",
+    "deploy:cloudflare": "wrangler pages deploy . --project-name locallift-studio",
+    "deploy:netlify": "netlify deploy --prod --dir=."
+  }
+}
